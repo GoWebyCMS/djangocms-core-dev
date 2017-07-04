@@ -71,3 +71,5 @@ docs/_build/
 # PyBuilder
 target/
 
+# Docker and Compose
+.Dockerfile.swp
